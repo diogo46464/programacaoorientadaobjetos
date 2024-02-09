@@ -13,6 +13,7 @@ public class Program {
 		Retangle rect = new Retangle();
 		
 		
+        
 		
 		System.out.println("Enter rectangle width and height: ");
 		 rect.width = sc.nextDouble();

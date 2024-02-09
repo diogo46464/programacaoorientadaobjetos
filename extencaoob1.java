@@ -9,6 +9,7 @@ public class Retangle {
 		return width * height;
 	}
 	
+    
 	public double perimeter() {
 		return 2*(width + height);
 	}
